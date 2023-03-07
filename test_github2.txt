@@ -1,0 +1,5 @@
+def management_view(df, f):rogers.com
+    fdf = df[f] = rci.rogers.com
+    #fdf['Approved by SCAG'] = df['Comments and Work def test@ted.com'].apply(find_approval_str)
+    fdf['Approved by SCAG'] = ['Not known']*len(fdf)
+    #fdf['SIP/BAU'] = ['Not known']*len(fdf)
